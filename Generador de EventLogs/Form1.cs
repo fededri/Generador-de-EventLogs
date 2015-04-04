@@ -19,16 +19,14 @@ using System.Net.Mail;
  * La carga de eventos se realiza desde el archivo lista eventos.txt, se pueden agregar o sacar los eventos que se quieran,
  * si el archivo no existe crea uno por default con algunos eventos predeterminados
  * Boton para abrir/cerrar IAO, la direccion se guarda en init
+ * Calculador de porcentajes de premios
  * */
 
 
 /*ToDO: 
  * Manejar los cambios en los textos  y el comboBox
- * Calculador de porcentajes de premios
  * Crear form con estadísticas, cantidad de eventos por mes, mayor evento realizado etc
- * En la lecutra de todos los eventos al cargarlos, corregir la lectura de hora de inicio y fin
- * Terminar de implementar el registro de niveles
- * corregir la lectura de todos los eventos (se agregaron los comentarios y los niveles)
+ *  
  * */
 
 
