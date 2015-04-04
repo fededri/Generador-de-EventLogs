@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador de EventLogs.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador_de_EventLogs.Form1.resources
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador_de_EventLogs.FormMail.resources
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador_de_EventLogs.Properties.Resources.resources
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador de EventLogs.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\bin\Release\Staff ImperiumAO Tool.exe.config
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\bin\Release\Staff ImperiumAO Tool.exe
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\bin\Release\Staff ImperiumAO Tool.pdb
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Release\Staff ImperiumAO Tool.exe
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Release\Staff ImperiumAO Tool.pdb
+C:\Users\user\Google Drive\Generador de EventLogs\Generador de EventLogs\bin\Release\Staff ImperiumAO Tool.exe.config
+C:\Users\user\Google Drive\Generador de EventLogs\Generador de EventLogs\obj\Release\Staff ImperiumAO Tool.exe
+C:\Users\user\Google Drive\Generador de EventLogs\Generador de EventLogs\obj\Release\Staff ImperiumAO Tool.pdb
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\bin\Release\Staff ImperiumAO Tool.exe.config
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\obj\Release\Staff ImperiumAO Tool.exe
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\obj\Release\Staff ImperiumAO Tool.pdb
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\bin\Release\Staff ImperiumAO Tool.exe
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\bin\Release\Staff ImperiumAO Tool.pdb
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador de EventLogs.csprojResolveAssemblyReference.cache
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador_de_EventLogs.Form1.resources
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador_de_EventLogs.FormMail.resources
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador_de_EventLogs.Properties.Resources.resources
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Generador de EventLogs\Generador de EventLogs\obj\Release\Generador de EventLogs.csproj.GenerateResource.Cache

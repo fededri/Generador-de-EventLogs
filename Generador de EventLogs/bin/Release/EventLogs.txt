@@ -1,0 +1,40 @@
+﻿[EventNum1]
+Tipo de Evento:   Torneo 3vs3
+Ganadores:   aaaaaaa
+Premios: aa
+Dms a cargo: aaaaaaa
+Mapa: aaaaaaaaa
+Fecha: 17/03/2015
+Comenzó a las 12:19:25
+Finalizó a las 12:19:27
+Participantes: aaaaaaaa
+Niveles: aaaaaaa
+Precio de inscripción: aaaaaa
+*****************************
+[EventNum2]
+Tipo de Evento: Punteria
+Ganadores: aasdasd
+Premios: sdasdasdasd
+Dms a cargo: asdasdasd
+Mapa: asdasd
+Fecha: 21/03/2015
+Comenzó a las 20:36:35
+Finalizó a las 20:36:48
+Participantes: asdasdas
+Niveles: assadsad
+Precio de inscripción: asdasd
+Comentario: asdasdas
+*****************************
+[EventNum3]
+Tipo de Evento: Trivia
+Ganadores: aaaaaaaa
+Premios: aaaaaaa
+Dms a cargo: aaaaaa
+Mapa: aaaa
+Fecha: 21/03/2015
+Comenzó a las 20:39:59
+Finalizó a las 20:40:00
+Participantes: aaaaaa
+Niveles: aaaa
+Precio de inscripción: aaaaaa
+*****************************

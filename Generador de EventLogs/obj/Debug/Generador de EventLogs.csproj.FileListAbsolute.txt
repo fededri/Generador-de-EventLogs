@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\bin\Debug\Generador de EventLogs.exe.config
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\bin\Debug\Generador de EventLogs.exe
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\bin\Debug\Generador de EventLogs.pdb
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Debug\Generador_de_EventLogs.Form1.resources
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Debug\Generador_de_EventLogs.FormMail.resources
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Debug\Generador_de_EventLogs.Properties.Resources.resources
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Debug\Generador de EventLogs.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Debug\Generador de EventLogs.exe
+C:\Users\user\Desktop\GeneradorEventLogsC#\Generador de EventLogs\Generador de EventLogs\obj\Debug\Generador de EventLogs.pdb

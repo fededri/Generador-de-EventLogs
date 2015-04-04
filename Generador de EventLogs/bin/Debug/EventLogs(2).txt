@@ -1,0 +1,48 @@
+[EventNum2]
+Tipo de Evento: Torneo 1vs1
+Ganadores: Nadie
+Premios: 1kk
+Dms a cargo: Drihtion, Zikiel
+Mapa: 238
+Fecha: 01/01/0001 12:00:00 a.m.
+Comenzó a las 25/02/2015 06:04:50 p.m.
+Finalizó a las 25/02/2015 06:04:50 p.m.
+2 parejas participantes
+Precio de inscripción: 
+*****************************
+[EventNum2]
+Tipo de Evento: Punteria
+Ganadores: asd
+Premios: asd
+Dms a cargo: asd
+Mapa: asdasdasd
+Fecha: 01/01/0001 12:00:00 a.m.
+Comenzó a las 25/02/2015 06:11:40 p.m.
+Finalizó a las 25/02/2015 06:11:40 p.m.
+sadasd participantes
+Precio de inscripción: asdasds
+*****************************
+[EventNum2]
+Tipo de Evento: Punteria
+Ganadores: asd
+Premios: asd
+Dms a cargo: asd
+Mapa: asdasdasd
+Fecha: 01/01/0001 12:00:00 a.m.
+Comenzó a las 25/02/2015 06:12:30 p.m.
+Finalizó a las 25/02/2015 06:12:30 p.m.
+sadasd participantes
+Precio de inscripción: asdasds
+*****************************
+[EventNum1]
+Tipo de Evento: Torneo 2vs2
+Ganadores: Nadie
+Premios: Ninguno
+Dms a cargo: Drihtion
+Mapa: 238
+Fecha: 01/01/0001 12:00:00 a.m.
+Comenzó a las 26/02/2015 01:28:53 a.m.
+Finalizó a las 26/02/2015 01:28:53 a.m.
+20 parejas participantes
+Precio de inscripción: 
+*****************************

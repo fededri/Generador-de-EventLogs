@@ -1,0 +1,5 @@
+[CantEventos]
+Cantidad=0
+
+[DireccionIAO]
+Direccion=C:\Archivos De Programa\ImperiumAO 1.5

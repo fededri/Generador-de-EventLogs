@@ -1,0 +1,22 @@
+[EventNum1]
+Tipo de Evento: Torneo 1vs1
+Ganadores: 
+Premios: 
+Dms a cargo: 
+Mapa: 
+Fecha: 05/03/2015
+Comenzó a las 02:38:27a.m.
+Finalizó a las 02:40:04a.m.
+Participantes: 
+*****************************
+[EventNum2]
+Tipo de Evento: Torneo 1vs1
+Ganadores: 
+Premios: 
+Dms a cargo: 
+Mapa: 
+Fecha: 05/03/2015
+Comenzó a las 02:38:27a.m.
+Finalizó a las 02:40:04a.m.
+Participantes: 
+*****************************
